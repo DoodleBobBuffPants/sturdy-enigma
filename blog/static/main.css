@@ -1,9 +1,6 @@
-jumbotron {
-  background: blue; }
-
 .jumbotron {
-  background: blue;
-  color: blue;
+  background: #1111ff;
+  color: #1111ff;
   padding-bottom: 100px; }
   .jumbotron .btn-primary {
     background: #0000cc;
