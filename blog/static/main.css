@@ -1,21 +1,21 @@
 .jumbotron {
-  background: Blue;
-  color: Blue;
+  background-image: url("MEHOYMINOY.gif");
+  background-color: Blue;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
-    background: Blue;
+    background-color: Blue;
     border-color: Blue; }
     .jumbotron .btn-primary:hover {
-      background: Blue; }
+      background-color: Blue; }
   .jumbotron p {
-    color: Blue;
+    background-image: url("MEHOYMINOY.gif");
     max-width: 75%;
     margin: 1em auto 2em; }
   .navbar + .jumbotron {
     margin-top: -20px; }
   .jumbotron .lang-logo {
     display: block;
-    background: #Blue;
+    background-image: url("MEHOYMINOY.gif");
     border-radius: 50%;
     overflow: hidden;
     width: 100px;
