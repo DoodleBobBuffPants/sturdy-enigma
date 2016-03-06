@@ -1,5 +1,4 @@
 .jumbotron {
-  background-image: url('MEHOYMINOY.gif');
   background-color: Blue;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
@@ -8,7 +7,6 @@
     .jumbotron .btn-primary:hover {
       background-color: Blue; }
   .jumbotron p {
-    background-image: url("MEHOYMINOY.gif");
     background-color: Blue;
     max-width: 75%;
     margin: 1em auto 2em; }
@@ -16,7 +14,6 @@
     margin-top: -20px; }
   .jumbotron .lang-logo {
     display: block;
-    background-image: url("MEHOYMINOY.gif");
     background-color: Blue;
     border-radius: 50%;
     overflow: hidden;
