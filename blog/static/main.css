@@ -1,11 +1,5 @@
-<body>
-  background-image = url("MEHOYMINOY.gif")
-</body>
-
-
-
 .jumbotron {
-  background-image: url_for('static', filename='MEHOYMINOY.gif');
+  background-image: url('MEHOYMINOY.gif');
   background-color: Blue;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
