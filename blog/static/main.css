@@ -1,10 +1,6 @@
 body {
   color: #008FFF;
 }
-
-
-
-
 .jumbotron {
   background: Black;
   padding-bottom: 80px; }
@@ -14,7 +10,7 @@ body {
     .jumbotron .btn-primary:hover {
       background-color: Black; }
   .jumbotron p {
-    color: Black;
+    color: Blue;
     max-width: 75%;
     margin: 1em auto 2em; }
   .navbar + .jumbotron {
