@@ -9,12 +9,12 @@ body {
   background: #008FFF;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
-    background: Blue;
-    border-color: Blue; }
+    background: Black;
+    border-color: Black; }
     .jumbotron .btn-primary:hover {
-      background-color: Blue; }
+      background-color: Black; }
   .jumbotron p {
-    color: Lime Green;
+    color: Black;
     max-width: 75%;
     margin: 1em auto 2em; }
   .navbar + .jumbotron {
