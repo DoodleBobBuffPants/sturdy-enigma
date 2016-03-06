@@ -1,12 +1,12 @@
 .jumbotron {
-  background: #00BFFF;
-  color: Black;
+  background: Blue;
+  color: Blue;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
-    background: #4B0082;
-    border-color: Black; }
+    background: Blue;
+    border-color: Blue; }
     .jumbotron .btn-primary:hover {
-      background: #00BFFF; }
+      background: Blue; }
   .jumbotron p {
     color: Blue;
     max-width: 75%;
@@ -15,12 +15,12 @@
     margin-top: -20px; }
   .jumbotron .lang-logo {
     display: block;
-    background: #4B0082;
+    background: #Blue;
     border-radius: 50%;
     overflow: hidden;
     width: 100px;
     height: 100px;
     margin: auto;
-    border: 2px Red; }
+    border: 2px Blue; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
