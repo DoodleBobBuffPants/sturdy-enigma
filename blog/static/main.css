@@ -1,5 +1,5 @@
 body {
-  background-color: #008FFF;
+  background-image: {{ url_for('static', filename='main.css') }};
 }
 .jumbotron {
   background: Black;
