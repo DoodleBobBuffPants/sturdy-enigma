@@ -1,5 +1,5 @@
 body {
-  background-image: "{{ url_for('static', filename='MEHOYMINOY.gif') }}";
+  background-image: url("MEHOYMINOY.gif");
 }
 .jumbotron {
   background: Black;
