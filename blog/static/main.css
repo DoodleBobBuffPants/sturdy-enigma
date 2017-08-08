@@ -3,7 +3,6 @@ body {
 }
 .jumbotron {
   background: Black;
-  position: fixed;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
     background: Black;
